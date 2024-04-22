@@ -1,0 +1,5 @@
+streamlit
+langchain_core
+python-dotenv
+langchain_community
+langserve
