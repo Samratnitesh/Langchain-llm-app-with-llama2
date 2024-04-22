@@ -1,4 +1,4 @@
-## LLM Q&A App with llama2 
+# LLM Q&A App with llama2 
 Hi there ✋!
 
 Welcome! This is a Question-Answer large language model streamlit web app made with **llama2** and langchain.
